@@ -1,0 +1,10 @@
+server:
+  header: '8mix'
+  addr: 'http://localhost:3000'
+
+app:
+  name: '8mix.site'
+  version: '3.1.12'
+
+http:
+  addr: '0.0.0.0:3000'
